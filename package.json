@@ -1,10 +1,10 @@
 {
-    "name" :"calculator",
+    "name" :"abcd",
     "version": "0.0.1",
     "main": "calc",
     "repository": {
         "type":"git",
-         "url ":" https://github.com/Eswar-sai-Reddy/calculator"
+         "url ":"https://github.com/Eswar-sai-Reddy/abcd"
 
     },
     "keywords": [
